@@ -1,6 +1,6 @@
 # Aniket Bobade
 bobadeaniket5@gmail.com  
-Rajur, Akole  
+Rajur, Ahmednagar  
 7030842378  
 
 ## Summary
@@ -12,38 +12,38 @@ Accomplished Full Stack Developer with extensive experience in building and main
 ### Associate Software Engineer
 **Techneplus Software India Private Limited**, Bangalore, India  
 *June 2022 – December 2022*  
-
-**Project**: D2Comm Project (Related E-commerce)  
-- Worked on Spring with PostgreSQL.
-- Provided support on database side and ordering issues.
-
+  
+  **Project**: D2Comm Project (Related E-commerce)  
+  - Worked on Spring with PostgreSQL.
+  - Provided support on database side and ordering issues.
+  
 ### Full Stack Developer
 **Sucomp TechSolution**, Mumbai  
 *June 2023 – Present*  
 
-#### Timesheet App
-
-**Role**: Full Stack Developer  
-**Tech Stack**: Node.js, Express, MongoDB, Angular, Linux server  
-
-**Responsibilities**:  
-- Developed and maintained a robust end-to-end timesheet application.
-- Implemented scalable backend services using Node.js and Express, ensuring optimal performance and reliability.
-- Designed and integrated a dynamic frontend with Angular, providing a seamless user experience.
-- Managed MongoDB databases, ensuring efficient data storage and retrieval.
-- Deployed and maintained the application on a Linux server, overseeing server configurations and optimizations.
-
-#### Digital Twin
-
-**Role**: Software Engineer  
-**Tech Stack**: .NET (C#), PostgreSQL  
-
-**Responsibilities**:  
-- Developed a .NET desktop application utilizing C# to create a digital twin system.
-- Managed large datasets with high-frequency database operations, ensuring data integrity and performance.
-- Designed and implemented comprehensive reports, providing detailed insights and analytics.
-- Optimized PostgreSQL database interactions for high performance, addressing the demands of large-scale data processing.
-- Collaborated with cross-functional teams to enhance software functionality and user experience.
+  #### Timesheet App
+  
+  **Role**: Full Stack Developer  
+  **Tech Stack**: Node.js, Express, MongoDB, Angular, Linux server  
+  
+  **Responsibilities**:  
+  - Developed and maintained a robust end-to-end timesheet application.
+  - Implemented scalable backend services using Node.js and Express, ensuring optimal performance and reliability.
+  - Designed and integrated a dynamic frontend with Angular, providing a seamless user experience.
+  - Managed MongoDB databases, ensuring efficient data storage and retrieval.
+  - Deployed and maintained the application on a Linux server, overseeing server configurations and optimizations.
+  
+  #### Digital Twin
+  
+  **Role**: Software Engineer  
+  **Tech Stack**: .NET (C#), PostgreSQL  
+  
+  **Responsibilities**:  
+  - Developed a .NET desktop application utilizing C# to create a digital twin system.
+  - Managed large datasets with high-frequency database operations, ensuring data integrity and performance.
+  - Designed and implemented comprehensive reports, providing detailed insights and analytics.
+  - Optimized PostgreSQL database interactions for high performance, addressing the demands of large-scale data processing.
+  - Collaborated with cross-functional teams to enhance software functionality and user experience.
 
 ## Education
 
