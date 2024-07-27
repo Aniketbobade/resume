@@ -50,7 +50,7 @@ Accomplished Full Stack Developer with extensive experience in building and main
 **B.E (Electrical)**  
 Arutvahini College of Engineering, Sangamner  
 *2021*  
-- Subjects studied, dissertations/theses rendered, specializations, associations
+CGPA: 7.4
 
 ## Skills
 
